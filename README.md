@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+👋 Hi, I’m Jordi Justicia, a software developer and game designer passionate about graphics programming, C++, and interactive storytelling.
+
+🎮 I build games that blend history, technology, and immersive narratives—currently working on my thesis project exploring queer history through archaeology in games.
+
+💻 I have experience in C++, Unity, Python, SQL, and graphics programming (Ray Tracing, Volume Rendering). I also love optimizing performance and working on game engines.
+
+🚀 Always learning, always experimenting. Check out my projects below!
 <!--
 **JordiJus/JordiJus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
