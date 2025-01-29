@@ -1,5 +1,3 @@
-## Hi there 👋
-
 👋 Hi, I’m Jordi Justicia, a software developer and game designer passionate about graphics programming, C++, and interactive storytelling.
 
 🎮 I build games that blend history, technology, and immersive narratives—currently working on my thesis project exploring queer history through archaeology in games.
