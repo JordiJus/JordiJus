@@ -4,7 +4,7 @@
 
 💻 I have experience in C++, Unity, Python, SQL, and graphics programming (Ray Tracing, Volume Rendering). I also love optimizing performance and working on game engines.
 
-🚀 Always learning, always experimenting. Check out my projects below!
+🌱 Always learning, always experimenting. Check out my projects below!
 <!--
 **JordiJus/JordiJus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
